@@ -1,6 +1,7 @@
 ---
 title: "Logics of True Belief"
 collection: publications
+category: manuscripts
 permalink: /publication/Yang2024LTB
 date: 2024-2
 venue: 'Notre Dame Journal of Formal Logic 65(1)'
