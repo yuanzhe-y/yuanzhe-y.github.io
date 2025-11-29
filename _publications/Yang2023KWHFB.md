@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Yang2023KWHFB
 excerpt: ""
 date: 2023-6-28
-venue: 'Proceedings Nineteenth Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2023)</i>, Oxford, United Kingdom'
+venue: 'Nineteenth Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2023)</i>, Oxford, United Kingdom'
 ---
 
 In epistemic logic, a way to deal with knowledge-wh is to interpret them as a kind of mention-some
