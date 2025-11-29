@@ -1,7 +1,7 @@
 ---
 title: 'Varying-Domain First-Order Modal Logic with Assignment Operators'
 date: 2025-11-29
-permalink: /post/ongoing-paper-1
+permalink: /posts/ongoing-paper-1/
 tags: 
   - test
 ---
