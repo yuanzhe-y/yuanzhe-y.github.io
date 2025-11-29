@@ -3,7 +3,8 @@ title: "Logics of True Belief"
 collection: publications
 category: manuscripts
 permalink: /publication/Yang2024LTB
-date: 2024-2
+date: 2024-2-1
+excerpt: Studies of the logics of true belief and other relevant logics.
 venue: 'Notre Dame Journal of Formal Logic 65(1)'
 bibtexurl: 'https://yuanzhe-y.github.io/files/bibtex1.bib'
 
