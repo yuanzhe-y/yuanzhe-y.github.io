@@ -2,7 +2,7 @@
 title: "Impure Simplicial Complex and Term-Modal Logic with Assignment Operators"
 collection: publications
 category: conferences
-permalink: /publication/Yang2025ISCTM.md
+permalink: /publication/Yang2025ISCTM
 excerpt: ""
 date: 2025-07-14
 venue: 'Proceedings Twentieth Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2025)</i>, Düsseldorf, Germany'
