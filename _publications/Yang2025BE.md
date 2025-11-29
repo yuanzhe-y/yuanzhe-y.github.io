@@ -3,7 +3,7 @@ title: "Boxing Some: Axiomatizations of the □∃-Bundled Fragment of First-Ord
 collection: publications
 category: manuscripts
 permalink: /publication/Yang2025BE
-excerpt: 
+excerpt: ""
 date: 2025-8-1
 venue: 'Journal of Philosophical Logic 54(4): 901-933'
 ---
