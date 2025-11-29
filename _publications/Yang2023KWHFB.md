@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Yang2023KWHFB
 excerpt: ""
 date: 2023-6-28
-venue: 'TARK 2023 </i>, Oxford, United Kingdom, June 29-30'
+venue: 'TARK 2023</i>, Oxford, United Kingdom, June 28-30'
 ---
 
 In epistemic logic, a way to deal with knowledge-wh is to interpret them as a kind of mention-some
