@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Yang2025BE
 excerpt: 
 date: 2025-8-1
-venue: 'Journal of Philosophical Logic 54(4)'
+venue: 'Journal of Philosophical Logic 54(4): 901-933'
 
 ---
 
