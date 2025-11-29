@@ -4,4 +4,4 @@ title: "Ongoing Papers"
 author_profile: true
 ---
 
-Ongoing works.
+* Varying-Domain First-Order Modal Logic with Assignment Operators
