@@ -8,4 +8,13 @@ date: 2023-6-28
 venue: 'Proceedings Nineteenth Conference on Theoretical Aspects of Rationality and Knowledge (TARK 2023)</i>, Oxford, United Kingdom'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In epistemic logic, a way to deal with knowledge-wh is to interpret them as a kind of mention-some
+knowledge (MS-knowledge). But philosophers and linguists have challenged both the sufficiency
+and necessity of such an account: some argue that knowledge-wh has, in addition to MS-knowledge,
+also a sensitivity to false belief (FS); others argue that knowledge-wh might only imply mention-some
+true belief (MS-true belief). In this paper, we offer a logical study for all these different accounts. We
+apply the technique of bundled operators, and introduce four different bundled operators - ∃x([B]φ∧φ), ∃x([B]φ∧φ)∧∀x([B]φ→φ), ∃x[K]φ and ∃x[K]φ∧∀x([B]φ→φ) -, which characterize the notions of MS-true belief, MS-true belief with FS, MS-
+knowledge and MS-knowledge with FS respectively. We axiomatize the four logics which take the
+above operators (as well as [K]) as primitive modalities on the class of S4.2-constant-domain models,
+and compare the patterns of reasoning in the obtained logics, in order to show how the four accounts
+of knowledge-wh differ from each other, as well as what they have in common.
