@@ -14,8 +14,8 @@ main:
   - title: "Ongoing Papers"
     url: /ongoing/
 
-  #- title: "Talks"
-    #url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   #- title: "Teaching"
     #url: /teaching/    
