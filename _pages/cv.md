@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Click [here](url: https://yuanzhe-y.github.io/files/YangCV.pdf) to download a more detailed CV.)
+(Click [here](https://yuanzhe-y.github.io/files/YangCV.pdf) to download a more detailed CV.)
 
 Education
 ======
