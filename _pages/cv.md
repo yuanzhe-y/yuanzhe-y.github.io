@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+(For a more detailed CV, see [here]/yuanzhe-y.github.io/files/YangCV.pdf)
+
 Education
 ======
 * M.A. in Philosophy, Peking University, 2026 (expected)
