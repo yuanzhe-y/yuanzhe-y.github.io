@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * M.A. in Philosophy, Peking University, 2026 (expected)
+  Supervisor: Yanjing Wang
 * B.A. in Philosophy, Peking University, 2023
+  Supervisor: Yanjing Wang
 
 Publications
 ======
