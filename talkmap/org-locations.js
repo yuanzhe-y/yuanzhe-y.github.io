@@ -5,6 +5,11 @@ var addressPoints = [
     -118.242766
   ],
   [
+    "Social Friendly Coalition Logic with Restricted Coalitions<br />LMAS 4; Nankai University",
+    39.1034775,
+    117.1621788
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
@@ -13,10 +18,5 @@ var addressPoints = [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
-  ],
-  [
-    "Social Friendly Coalition Logic with Restricted Coalitions<br />Nankai University; Tianjin, China",
-    39.3032619,
-    117.4163641
   ]
 ];
