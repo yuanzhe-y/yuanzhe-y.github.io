@@ -9,3 +9,4 @@ author_profile: true
 * A General Study of Propositional Modal Bundled Operators
 * Social Friendly Coalition Logic and Its Generalizations with Restricted Coalitions
 * Deontic Logic with a Counting Conjunction
+* Sahlqvist Formulas for Convex Neighborhood Modal Logic
